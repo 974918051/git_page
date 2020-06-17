@@ -17,6 +17,7 @@ h1,h2 {
 
 .name {
     text-align: center;
+    text-size-adjust: auto;
     width: 10%;
     height: 10%;
     font-size: 24px;
